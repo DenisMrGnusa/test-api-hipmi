@@ -76,51 +76,51 @@
             "latencyPreference": "normal", 
             "etag": "I0GjKBO4iCToSkYAH0PlopE4P3Q", 
             "id": "VpnTLIyRo5A", 
-            "kind": "youtube#liveBroadcast", 
-            "snippet": {
-                "actualEndTime": "2021-06-01T11:49:36Z", 
-                "actualStartTime": "2021-06-01T11:48:05Z", 
-                "channelId": "UCtbjA6NcoS2S1KHTw9Ep0ZQ", 
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet viverra aliquam. Sed ac sem auctor, pretium leo vitae, ullamcorper turpis. Aenean sodales fringilla varius", 
-                "isDefaultBroadcast": false, 
-                "liveChatId": "KicKGFVDdGJqQTZOY29TMlMxS0hUdzlFcDBaURILVnBuVExJeVJvNUE", 
-                "publishedAt": "2021-06-01T11:21:02Z", 
-                "scheduledStartTime": "2021-06-01T11:50:00Z", 
-                "thumbnails": {
-                    "default": {
-                        "height": 90, 
-                        "url":" https://i9.ytimg.com/vi/VpnTLIyRo5A/default.jpg?sqp=CJiN44UG&rs=AOn4CLAs_ojnzxnllOgU1SZomT6N_s8aIg", 
-                        "width": 120
-                    }, 
-                    "high": {
-                        "height": 360, 
-                        "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/hqdefault.jpg?sqp=CJiN44UG&rs=AOn4CLC08XTZ5qip48XAnyhHG36EjKIknA",
-                        "width": 480
-                    }, 
-                    "maxres": {
-                        "height": 720, 
-                        "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/maxresdefault.jpg?sqp=CJiN44UG&rs=AOn4CLBDx0jwQy_TFKW-6G6Y_X5OJUtWnQ",
-                        "width": 1280
-                    }, 
-                    "medium": {
-                        "height": 180, 
-                        "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/mqdefault.jpg?sqp=CJiN44UG&rs=AOn4CLADVwxKPsZaN_Gw-HaEIM4KiYFgYw", 
-                        "width": 320
-                    }, "standard": {
-                        "height": 480, 
-                        "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/sddefault.jpg?sqp=CJiN44UG&rs=AOn4CLABbRf2sNuDwSPU69ZXd65TgXnQ1w", 
-                        "width": 640
-                    }
+            "kind": "youtube#liveBroadcast"
+        },
+        "snippet": {
+            "actualEndTime": "2021-06-01T11:49:36Z", 
+            "actualStartTime": "2021-06-01T11:48:05Z", 
+            "channelId": "UCtbjA6NcoS2S1KHTw9Ep0ZQ", 
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet viverra aliquam. Sed ac sem auctor, pretium leo vitae, ullamcorper turpis. Aenean sodales fringilla varius", 
+            "isDefaultBroadcast": false, 
+            "liveChatId": "KicKGFVDdGJqQTZOY29TMlMxS0hUdzlFcDBaURILVnBuVExJeVJvNUE", 
+            "publishedAt": "2021-06-01T11:21:02Z", 
+            "scheduledStartTime": "2021-06-01T11:50:00Z", 
+            "thumbnails": {
+                "default": {
+                    "height": 90, 
+                    "url":" https://i9.ytimg.com/vi/VpnTLIyRo5A/default.jpg?sqp=CJiN44UG&rs=AOn4CLAs_ojnzxnllOgU1SZomT6N_s8aIg", 
+                    "width": 120
                 }, 
-                "title": "test jitsi 5"
+                "high": {
+                    "height": 360, 
+                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/hqdefault.jpg?sqp=CJiN44UG&rs=AOn4CLC08XTZ5qip48XAnyhHG36EjKIknA",
+                    "width": 480
+                }, 
+                "maxres": {
+                    "height": 720, 
+                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/maxresdefault.jpg?sqp=CJiN44UG&rs=AOn4CLBDx0jwQy_TFKW-6G6Y_X5OJUtWnQ",
+                    "width": 1280
+                }, 
+                "medium": {
+                    "height": 180, 
+                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/mqdefault.jpg?sqp=CJiN44UG&rs=AOn4CLADVwxKPsZaN_Gw-HaEIM4KiYFgYw", 
+                    "width": 320
+                }, "standard": {
+                    "height": 480, 
+                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/sddefault.jpg?sqp=CJiN44UG&rs=AOn4CLABbRf2sNuDwSPU69ZXd65TgXnQ1w", 
+                    "width": 640
+                }
             }, 
-            "status": {
-                "lifeCycleStatus": "complete", 
-                "madeForKids": false, 
-                "privacyStatus": "private", 
-                "recordingStatus": "recorded", 
-                "selfDeclaredMadeForKids": false
-            }
+            "title": "test jitsi 5"
+        }, 
+        "status": {
+            "lifeCycleStatus": "complete", 
+            "madeForKids": false, 
+            "privacyStatus": "private", 
+            "recordingStatus": "recorded", 
+            "selfDeclaredMadeForKids": false
         }
     }, 
     {
