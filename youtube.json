@@ -1,190 +1,126 @@
 [
     {
         "contentDetails": {
-            "boundStreamId": "tbjA6NcoS2S1KHTw9Ep0ZQ1619859801325891",
-            "boundStreamLastUpdateTimeMs": "2021-06-03T05:34:36Z",
-            "closedCaptionsType": "closedCaptionsDisabled",
-            "enableAutoStart": false,
-            "enableAutoStop": false,
-            "enableClosedCaptions": false,
-            "enableContentEncryption": false,
-            "enableDvr": true,
-            "enableEmbed": true,
-            "enableLowLatency": false,
-            "latencyPreference": "normal",
-            "projection": "rectangular", 
-            "recordFromStart": true, 
-            "startWithSlate": false
-        }, 
-        "etag": "1JgN_amU5BLUE7kTQI3I_AdnYro", 
-        "id": "Q4J1G1_5G2A", 
-        "kind": "youtube#liveBroadcast", 
-        "snippet": {
-            "channelId": "UCtbjA6NcoS2S1KHTw9Ep0ZQ", 
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis lacus neque. Praesent quis facilisis metus. Aenean congue nisl in enim viverra lobortis ut eget justo. Ut est lectus, aliquam non ullamcorper imperdiet, lobortis nec odio. Donec mi mauris, euismod in orci in, egestas aliquet massa. Etiam consectetur maximus eros et molestie. Aenean mollis nisl eget metus bibendum, eu interdum erat cursus. Pellentesque massa ex, dictum ut dapibus et, ornare non lacus. Fusce ipsum erat, accumsan at viverra a, tempus non nisl. Donec vitae molestie tortor. Integer sem quam, molestie vitae erat ac, ultrices dapibus sapien. Sed eget hendrerit lorem, mattis sollicitudin ligula.Nulla urna ex,lacinia ut dolor ac,porttitor cursus odio.Suspendisse dictum gravida neque eget egestas.Etiam non mattis mi.Phasellus vestibulum ut dui ut venenatis.Mauris eleifend tortor id porta cursus.Nulla nec sem sed justo tempor fermentum at ac tortor.In quis libero tincidunt,porta arcu nec,dictum ligula.Donec suscipit consequat commodo.Praesent eget ex diam.Aliquam sed sem in mauris ullamcorper iaculis.Vestibulum ornare,libero nec commodo facilisis,turpis magna vulputate velit,feugiat congue nibh velit eu lorem.Vivamus sed sapien purus.,",
-            "isDefaultBroadcast": false,
-            "liveChatId": "KicKGFVDdGJqQTZOY29TMlMxS0hUdzlFcDBaURILUTRKMUcxXzVHMkE",
-            "publishedAt": "2021-06-03T12:14:04Z",
-            "scheduledStartTime": "2021-06-05T08:30:00Z",
-            "thumbnails": {
-                "default": {
-                    "height": 90,
-                    "url":" https://i.ytimg.com/vi/Q4J1G1_5G2A/default_live.jpg", 
-                    "width": 120
-                }, 
-                "high": {
-                    "height": 360, 
-                    "url": "https://i.ytimg.com/vi/Q4J1G1_5G2A/hqdefault_live.jpg",
-                    "width": 480
-                }, 
-                "maxres": {
-                    "height": 720, 
-                    "url": "https://i.ytimg.com/vi/Q4J1G1_5G2A/maxresdefault_live.jpg",
-                    "width": 1280
-                }, "medium": {
-                    "height": 180, 
-                    "url": "https://i.ytimg.com/vi/Q4J1G1_5G2A/mqdefault_live.jpg", 
-                    "width": 320
-                }, "standard": {
-                    "height": 480, 
-                    "url": "https://i.ytimg.com/vi/Q4J1G1_5G2A/sddefault_live.jpg",
-                    "width": 640
-                }
-            }, 
-            "title": "Rapat Hipmiclub Pertama"
-        }, 
-        "status": {
-            "lifeCycleStatus": "ready", 
-            "madeForKids": false,
-            "privacyStatus": "public", 
-            "recordingStatus": "notRecording", 
-            "selfDeclaredMadeForKids": false
-        }
-    }, 
-    {
-        "contentDetails": {
-            "boundStreamId": "tbjA6NcoS2S1KHTw9Ep0ZQ1622546687358256", 
-            "boundStreamLastUpdateTimeMs": "2021-06-01T11:50:27Z", 
-            "closedCaptionsType": "closedCaptionsHttpPost", 
-            "enableAutoStart": true,
-            "enableAutoStop": false, 
-            "enableClosedCaptions": true, 
-            "enableContentEncryption": true, 
-            "enableDvr": true, 
-            "enableEmbed": true, 
-            "enableLowLatency": false, 
-            "latencyPreference": "normal", 
-            "etag": "I0GjKBO4iCToSkYAH0PlopE4P3Q", 
-            "id": "VpnTLIyRo5A", 
-            "kind": "youtube#liveBroadcast"
-        },
-        "snippet": {
-            "actualEndTime": "2021-06-01T11:49:36Z", 
-            "actualStartTime": "2021-06-01T11:48:05Z", 
-            "channelId": "UCtbjA6NcoS2S1KHTw9Ep0ZQ", 
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet viverra aliquam. Sed ac sem auctor, pretium leo vitae, ullamcorper turpis. Aenean sodales fringilla varius", 
-            "isDefaultBroadcast": false, 
-            "liveChatId": "KicKGFVDdGJqQTZOY29TMlMxS0hUdzlFcDBaURILVnBuVExJeVJvNUE", 
-            "publishedAt": "2021-06-01T11:21:02Z", 
-            "scheduledStartTime": "2021-06-01T11:50:00Z", 
-            "thumbnails": {
-                "default": {
-                    "height": 90, 
-                    "url":" https://i9.ytimg.com/vi/VpnTLIyRo5A/default.jpg?sqp=CJiN44UG&rs=AOn4CLAs_ojnzxnllOgU1SZomT6N_s8aIg", 
-                    "width": 120
-                }, 
-                "high": {
-                    "height": 360, 
-                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/hqdefault.jpg?sqp=CJiN44UG&rs=AOn4CLC08XTZ5qip48XAnyhHG36EjKIknA",
-                    "width": 480
-                }, 
-                "maxres": {
-                    "height": 720, 
-                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/maxresdefault.jpg?sqp=CJiN44UG&rs=AOn4CLBDx0jwQy_TFKW-6G6Y_X5OJUtWnQ",
-                    "width": 1280
-                }, 
-                "medium": {
-                    "height": 180, 
-                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/mqdefault.jpg?sqp=CJiN44UG&rs=AOn4CLADVwxKPsZaN_Gw-HaEIM4KiYFgYw", 
-                    "width": 320
-                }, "standard": {
-                    "height": 480, 
-                    "url": "https://i9.ytimg.com/vi/VpnTLIyRo5A/sddefault.jpg?sqp=CJiN44UG&rs=AOn4CLABbRf2sNuDwSPU69ZXd65TgXnQ1w", 
-                    "width": 640
-                }
-            }, 
-            "title": "test jitsi 5"
-        }, 
-        "status": {
-            "lifeCycleStatus": "complete", 
-            "madeForKids": false, 
-            "privacyStatus": "private", 
-            "recordingStatus": "recorded", 
-            "selfDeclaredMadeForKids": false
-        }
-    }, 
-    {
-        "contentDetails": {
-            "boundStreamId": "tbjA6NcoS2S1KHTw9Ep0ZQ1619859801325891", 
-            "boundStreamLastUpdateTimeMs": "2021-06-03T05:34:36Z", 
+            "boundStreamId": "nXzEwtEKKKIMEGJbNqYcwA1622873092803792", 
+            "boundStreamLastUpdateTimeMs": "2021-06-05T06:04:53Z", 
             "closedCaptionsType": "closedCaptionsDisabled", 
-            "enableAutoStart": true, 
-            "enableAutoStop": true, 
+            "enableAutoStart": false, 
+            "enableAutoStop": false, 
             "enableClosedCaptions": false, 
             "enableContentEncryption": false, 
             "enableDvr": true, 
             "enableEmbed": true, 
-            "enableLowLatency": true, 
-            "latencyPreference": "low", 
+            "enableLowLatency": false, 
+            "latencyPreference": "normal", 
             "projection": "rectangular", 
             "recordFromStart": true, 
             "startWithSlate": false
         }, 
-        "etag": "dQpikEEepCAQAlTariOKDVpVK1g", 
-        "id": "qAbo_bbcdFs", 
+        "etag": "ymOJIxCW7pZYSHeIkZ2SX7UD3rY", 
+        "id": "-BrPL7Wcp1c", 
         "kind": "youtube#liveBroadcast", 
         "snippet": {
-            "actualEndTime": "2021-06-03T05:34:09Z",
-            "actualStartTime": "2021-06-03T05:32:27Z", 
-            "channelId": "UCtbjA6NcoS2S1KHTw9Ep0ZQ", 
-            "description": "Deskripsi", 
+            "channelId": "UCnXzEwtEKKKIMEGJbNqYcwA", 
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum sed metus malesuada vestibulum. Sed in augue dui. Mauris non vehicula elit, nec gravida velit. Proin in sollicitudin nibh. Donec accumsan nulla porta felis egestas commodo. Morbi tristique mi elit, et egestas eros vulputate ac. Sed tempus magna odio, sed consectetur nisl aliquet euismod. Vivamus at varius justo, at volutpat nisi. In lacinia facilisis interdum. Praesent suscipit, leo suscipit sagittis varius, nisl erat pellentesque eros, eget tincidunt eros tellus eu arcu. Sed a pellentesque urna, auctor aliquam nisi. Maecenas sit amet mattis sem. Etiam vitae turpis mattis, faucibus leo vel, posuere arcu. Donec efficitur turpis et libero congue, nec egestas elit posuere. Aliquam egestas est eget nibh fringilla feugiat. Phasellus ornare, augue eu ornare dignissim, ligula eros blandit leo, vitae pellentesque ante nibh vel risus. Nullam malesuada, quam eget iaculis vulputate, mauris leo sollicitudin ex, sit amet tempus diam enim sed lorem. Phasellus tortor justo, ornare nec purus non, tristique placerat nulla. Ut non semper risus, in pulvinar dui. Vivamus posuere elementum iaculis. Ut fermentum convallis dui in scelerisque. Nulla facilisi. Mauris dictum lacus ac ipsum ullamcorper tristique.", 
             "isDefaultBroadcast": false, 
-            "liveChatId": "KicKGFVDdGJqQTZOY29TMlMxS0hUdzlFcDBaURILcUFib19iYmNkRnM", 
-            "publishedAt": "2021-05-01T09:19:05Z",
+            "liveChatId": "KicKGFVDblh6RXd0RUtLS0lNRUdKYk5xWWN3QRILLUJyUEw3V2NwMWM", 
+            "publishedAt": "2021-06-07T02:56:39Z", 
+            "scheduledStartTime": "2021-06-07T10:00:00Z", 
             "thumbnails": {
                 "default": {
                     "height": 90, 
-                    "url": "https://i.ytimg.com/vi/qAbo_bbcdFs/default_live.jpg", 
-                    "width": 120
+                    "url": "https://i.ytimg.com/vi/-BrPL7Wcp1c/default_live.jpg, width: 120"
                 }, 
                 "high": {
                     "height": 360, 
-                    "url": "https://i.ytimg.com/vi/qAbo_bbcdFs/hqdefault_live.jpg", 
+                    "url": "https://i.ytimg.com/vi/-BrPL7Wcp1c/hqdefault_live.jpg", 
                     "width": 480
                 }, 
                 "maxres": {
                     "height": 720, 
-                    "url": "https://i.ytimg.com/vi/qAbo_bbcdFs/maxresdefault_live.jpg", 
+                    "url": "https://i.ytimg.com/vi/-BrPL7Wcp1c/maxresdefault_live.jpg", 
                     "width": 1280
                 }, 
                 "medium": {
                     "height": 180, 
-                    "url": "https://i.ytimg.com/vi/qAbo_bbcdFs/mqdefault_live.jpg",
+                    "url": "https://i.ytimg.com/vi/-BrPL7Wcp1c/mqdefault_live.jpg", 
+                    "width": 320
+                }, "standard": {
+                    "height": 480, 
+                    "url": "https://i.ytimg.com/vi/-BrPL7Wcp1c/sddefault_live.jpg", 
+                    "width": 640
+                }
+            }, 
+            "title": "Podcast Bareng Hipmi 2"
+        }, 
+        "status": {
+            "lifeCycleStatus": "ready", 
+            "madeForKids": false, 
+            "privacyStatus": "public", 
+            "recordingStatus": "notRecording", 
+            "selfDeclaredMadeForKids": false
+        }
+    }, {
+        "contentDetails": {
+            "boundStreamId": "nXzEwtEKKKIMEGJbNqYcwA1622873092803792", 
+            "boundStreamLastUpdateTimeMs": "2021-06-05T06:04:53Z", 
+            "closedCaptionsType": "closedCaptionsDisabled", 
+            "enableAutoStart": false, 
+            "enableAutoStop": false, 
+            "enableClosedCaptions": false, 
+            "enableContentEncryption": false, 
+            "enableDvr": true, 
+            "enableEmbed": true, 
+            "enableLowLatency": false, 
+            "latencyPreference": "normal", 
+            "projection": "rectangular", 
+            "recordFromStart": true, 
+            "startWithSlate": false
+        }, 
+        "etag": "dfDElvvro1wrUfK_52k_fsBs-M0", 
+        "id": "5URHEkueG7Q", 
+        "kind": "youtube#liveBroadcast", 
+        "snippet": {
+            "channelId": "UCnXzEwtEKKKIMEGJbNqYcwA", 
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacinia felis vel metus porttitor egestas. Sed vehicula, urna id commodo iaculis, leo purus tristique lacus, sagittis vehicula neque eros egestas velit. Suspendisse sodales orci ac mi sollicitudin lobortis. Ut id dui tincidunt, sagittis lectus ac, euismod risus. Nulla id bibendum ex. Duis aliquet efficitur elit eu sollicitudin. Suspendisse ut velit sit amet elit convallis auctor et non neque. Mauris gravida porta mauris eu pretium.", 
+            "isDefaultBroadcast": false, 
+            "liveChatId": "KicKGFVDblh6RXd0RUtLS0lNRUdKYk5xWWN3QRILNVVSSEVrdWVHN1E", 
+            "publishedAt": "2021-06-05T06:04:51Z", 
+            "scheduledStartTime": "2021-06-06T06:10:00Z", 
+            "thumbnails": {
+                "default": {
+                    "height": 90, 
+                    "url": "https://i.ytimg.com/vi/5URHEkueG7Q/default_live.jpg", 
+                    "width": 120
+                }, 
+                "high": {
+                    "height": 360, 
+                    "url": "https://i.ytimg.com/vi/5URHEkueG7Q/hqdefault_live.jpg", 
+                    "width": 480
+                }, 
+                "maxres": {
+                    "height": 720, 
+                    "url": "https://i.ytimg.com/vi/5URHEkueG7Q/maxresdefault_live.jpg", 
+                    "width": 1280
+                }, 
+                "medium": {
+                    "height": 180, 
+                    "url": "https://i.ytimg.com/vi/5URHEkueG7Q/mqdefault_live.jpg", 
                     "width": 320
                 }, 
                 "standard": {
                     "height": 480, 
-                    "url": "https://i.ytimg.com/vi/qAbo_bbcdFs/sddefault_live.jpg", 
+                    "url": "https://i.ytimg.com/vi/5URHEkueG7Q/sddefault_live.jpg", 
                     "width": 640
                 }
-            }, 
-            "title": "Test Jitsi"
+            },
+            "title": "Podcasts Bareng Hipmi"
         }, 
         "status": {
-            "lifeCycleStatus": "complete", 
+            "lifeCycleStatus": "ready", 
             "madeForKids": false, 
-            "privacyStatus": "unlisted", 
-            "recordingStatus": "recorded", 
+            "privacyStatus": "public", 
+            "recordingStatus": "notRecording", 
             "selfDeclaredMadeForKids": false
         }
     }
